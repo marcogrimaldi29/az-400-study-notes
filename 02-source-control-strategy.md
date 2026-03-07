@@ -411,4 +411,5 @@ git filter-repo --path-glob "*.pem" --invert-paths
 
 ---
 
-[← 01 - Processes & Communications](/az-400-study-notes/01-processes-and-communications.md) | [03 - Build & Release Pipelines →](/az-400-study-notes/03-build-release-pipelines.md)
+[← 01 - Processes & Communications](/az-400-study-notes/01-processes-and-communications/) | [03 - Build & Release Pipelines →](/az-400-study-notes/03-build-release-pipelines/)
+      
