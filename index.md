@@ -13,7 +13,7 @@ mermaid: true
 **Microsoft Azure DevOps Engineer Expert**
 {: .fs-5 .fw-300 }
 
-[Start Studying →](#-exam-overview){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Start Studying →](/az-400-study-notes/01-processes-and-communications/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View on GitHub](https://github.com/marcogrimaldi29/az-400-study-notes){: .btn .fs-5 .mb-4 .mb-md-0 target="_blank" }
 
 ---
