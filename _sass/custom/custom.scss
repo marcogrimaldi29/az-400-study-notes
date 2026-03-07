@@ -1,0 +1,112 @@
+// ╔══════════════════════════════════════════════════════════════════╗
+// ║  az-400-study-notes — "Forge Red" palette                        ║
+// ║  Deep crimson background · Rose-red accents                      ║
+// ║  Evokes: CI/CD pipelines, build loops, automation, DevOps heat   ║
+// ╚══════════════════════════════════════════════════════════════════╝
+//
+// HOW THE THEMING SYSTEM WORKS
+// ─────────────────────────────
+// head_custom.html (shared, identical across all repos) uses CSS
+// custom properties with fallbacks, e.g. var(--repo-accent, #8ab4f8).
+// Defining those vars here overrides the fallback for this repo only.
+//
+// PALETTE REFERENCE FOR ALL REPOS
+// ─────────────────────────────────
+//   az-305-study-notes    → "Slate"          #8ab4f8 blue    / #1a1e26 sidebar
+//   az-305-messaging      → "Ember Copper"   #fb923c orange  / #160c04 sidebar
+//   az-305-data-analytics → "Deep Indigo"    #a78bfa violet  / #0c0917 sidebar
+//   az-305-compute        → "Electric Steel" #38bdf8 cyan    / #060f1c sidebar
+//   az-305-bcdr           → "Evergreen"      #34d399 emerald / #04120a sidebar
+//   az-400-study-notes    → "Forge Red"      #f87171 crimson / #140508 sidebar ← THIS FILE
+
+// ── Section 1: Accent CSS variables ───────────────────────────────────
+// Consumed by head_custom.html via var(--repo-*, fallback).
+// These five vars are the complete theming contract with head_custom.html.
+:root {
+  --repo-accent:        #f87171;                   // rose-red  — h3, table <strong>
+  --repo-caveat-border: #ef4444;                   // crimson   — exam caveat left border
+  --repo-caveat-bg:     rgba(239, 68, 68, 0.07);   // crimson wash — exam caveat background
+  --repo-badge-bg:      #b91c1c;                   // deep red  — domain-badge pill
+  --repo-hover-bg:      rgba(248, 113, 113, 0.08); // pale rose — table row hover
+}
+
+// ── Section 2: Sidebar ────────────────────────────────────────────────
+// Deep crimson-black — unmistakably different from all other repos.
+body .side-bar {
+  background-color: #140508;
+  border-right:     1px solid rgba(248, 113, 113, 0.10);
+}
+
+// Thin accent stripe at the very top of the page — the most immediately
+// noticeable visual differentiator when switching between repos.
+body .site-header {
+  border-bottom: 2px solid #ef4444;
+}
+
+// Site title in the sidebar top-left.
+body .site-title {
+  color: #f87171 !important;
+}
+
+// ── Section 3: Navigation links ───────────────────────────────────────
+body .nav-list .nav-list-link {
+  color: #e8a0a0;  // muted rose — readable on the dark crimson sidebar
+}
+
+body .nav-list .nav-list-link:hover,
+body .nav-list .nav-list-link:focus {
+  color:            #f87171;
+  background-color: rgba(248, 113, 113, 0.07);
+}
+
+body .nav-list .nav-list-link.active {
+  color:            #f87171;
+  background-color: rgba(248, 113, 113, 0.13);
+  font-weight:      600;
+}
+
+// ── Section 4: Body content links ─────────────────────────────────────
+body .main-content a {
+  color: #f87171;
+}
+
+body .main-content a:hover {
+  color:           #fca5a5;  // lighter rose on hover
+  text-decoration: underline;
+}
+
+// ── Section 5: Table header ───────────────────────────────────────────
+// Override explicitly to match the crimson sidebar.
+body .main-content table th {
+  background-color: #270a0e;
+  color:            #ffe4e6;
+}
+
+// ── Section 6: Search box focus ring ──────────────────────────────────
+body .search-input:focus {
+  border-color: #ef4444;
+  box-shadow:   0 0 0 3px rgba(239, 68, 68, 0.15);
+}
+
+// ── Section 7: Aux / external nav links ───────────────────────────────
+body .aux-nav-list-item a {
+  color: #f87171;
+}
+
+// ══════════════════════════════════════════════════════════════════════
+// STRUCTURAL RULES — identical across all repos
+// ══════════════════════════════════════════════════════════════════════
+
+.mermaid { margin: 1.5rem 0; text-align: center; }
+
+.exam-tip {
+  border-left:   4px solid var(--repo-caveat-border, #f59e0b);
+  background:    var(--repo-caveat-bg, rgba(245, 158, 11, 0.08));
+  padding:       0.75rem 1rem;
+  border-radius: 0 0.4rem 0.4rem 0;
+  margin:        1rem 0;
+}
+
+table          { font-size: 0.875rem; }
+th             { white-space: nowrap; }
+pre.highlight  { border-radius: 0.4rem; }
