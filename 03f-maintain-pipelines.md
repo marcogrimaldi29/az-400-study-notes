@@ -1,6 +1,17 @@
+---
+layout: default
+title: "03f — Maintain Pipelines"
+nav_order: 10
+description: "Design and Implement Maintain Pipelines — AZ-400 Exam Domain 3 (50–55% of exam) — pipeline design, implementation, and management."
+permalink: /03f-maintain-pipelines/
+mermaid: true
+---
+
 # 3f: Maintain Pipelines
 
-[← Back to Domain 3](./03-build-and-release-pipelines.md)
+> 📁 [← Back to Home](/az-400-study-notes/)
+
+[← Back to Domain 3](/az-400-study-notes/03-build-and-release-pipelines/)
 
 ---
 
@@ -330,4 +341,4 @@ variables:
 
 ---
 
-[← Infrastructure as Code](./03e-infrastructure-as-code.md) | [Next: Security & Compliance →](./04-security-and-compliance.md)
+[← 03e - Infrastructure as Code](/az-400-study-notes/03e-infrastructure-as-code/) | [04 - Security & Compliance →](/az-400-study-notes/04-security-and-compliance/)

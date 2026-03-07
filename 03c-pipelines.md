@@ -1,6 +1,17 @@
+---
+layout: default
+title: "03c — Pipelines"
+nav_order: 7
+description: "Design and Implement Pipelines — AZ-400 Exam Domain 3 (50–55% of exam) — pipeline design, implementation, and management."
+permalink: /03c-pipelines/
+mermaid: true
+---
+
 # 3c: Design and Implement Pipelines
 
-[← Back to Domain 3](./03-build-and-release-pipelines.md)
+> 📁 [← Back to Home](/az-400-study-notes/)
+
+[← Back to Domain 3](/az-400-study-notes/03-build-and-release-pipelines/)
 
 ---
 
@@ -585,4 +596,4 @@ variables:
 
 ---
 
-[← Testing Strategy](./03b-testing-strategy.md) | [Next: Deployments →](./03d-deployments.md)
+[← 03b - Testing Strategy](/az-400-study-notes/03b-testing-strategy/) | [03d - Deployments →](/az-400-study-notes/03d-deployments/)

@@ -1,6 +1,17 @@
+---
+layout: default
+title: "03e — Infrastructure as Code"
+nav_order: 9
+description: "Design and Implement Infrastructure as Code — AZ-400 Exam Domain 3 (50–55% of exam) — IaC design, implementation, and management."
+permalink: /03e-infrastructure-as-code/
+mermaid: true
+---
+
 # 3e: Design and Implement Infrastructure as Code (IaC)
 
-[← Back to Domain 3](./03-build-and-release-pipelines.md)
+> 📁 [← Back to Home](/az-400-study-notes/)
+
+[← Back to Domain 3](/az-400-study-notes/03-build-and-release-pipelines/)
 
 ---
 
@@ -407,4 +418,4 @@ parameters:
 
 ---
 
-[← Deployments](./03d-deployments.md) | [Next: Maintain Pipelines →](./03f-maintain-pipelines.md)
+[← 03d - Deployments](/az-400-study-notes/03d-deployments/) | [03f - Maintain Pipelines →](/az-400-study-notes/03f-maintain-pipelines/)

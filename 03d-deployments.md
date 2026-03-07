@@ -1,6 +1,17 @@
+---
+layout: default
+title: "03d — Deployments"
+nav_order: 8
+description: "Design and Implement Deployments — AZ-400 Exam Domain 3 (50–55% of exam) — deployment design, implementation, and management."
+permalink: /03d-deployments/
+mermaid: true
+---
+
 # 3d: Design and Implement Deployments
 
-[← Back to Domain 3](./03-build-and-release-pipelines.md)
+> 📁 [← Back to Home](/az-400-study-notes/)
+
+[← Back to Domain 3](/az-400-study-notes/03-build-and-release-pipelines/)
 
 ---
 
@@ -510,4 +521,4 @@ stages:
 
 ---
 
-[← Pipelines](./03c-pipelines.md) | [Next: Infrastructure as Code →](./03e-infrastructure-as-code.md)
+[← 03c - Pipelines](/az-400-study-notes/03c-pipelines/) | [03e - Infrastructure as Code →](/az-400-study-notes/03e-infrastructure-as-code/)

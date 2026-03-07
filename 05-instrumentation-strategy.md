@@ -1,8 +1,16 @@
+---
+layout: default
+title: "05 — Instrumentation Strategy"
+nav_order: 12
+description: "Design and Implement Instrumentation Strategy — AZ-400 Exam Domain 5 (5–10% of exam) — instrumentation design, implementation, and management."
+permalink: /05-instrumentation-strategy/
+mermaid: true
+---
+
 # Domain 5: Implement an Instrumentation Strategy
 
-**Exam Weight: 5–10%**
-
-[← Back to Main](./README.md)
+> **Exam Weight: 5–10%**
+> 📁 [← Back to Home](/az-400-study-notes/)
 
 ---
 
@@ -460,4 +468,4 @@ resource availabilityTest 'microsoft.insights/webtests@2022-06-15' = {
 
 ---
 
-[← Security & Compliance](./04-security-and-compliance.md) | [Back to Main](./README.md) | [Resources & Cheat Sheet →](./resources.md)
+[← 04 - Security & Compliance](az-400-study-notes/04-security-and-compliance/) | [06 - Resources & Cheat Sheet →](az-400-study-notes/06-resources/)

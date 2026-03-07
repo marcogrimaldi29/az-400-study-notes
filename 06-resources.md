@@ -1,6 +1,15 @@
+---
+layout: default
+title: "06 — Resources, Tips & Quick Reference"
+nav_order: 13
+description: "Design and Implement Build and Release Pipelines — AZ-400 Exam Domain 3 (50–55% of exam) — pipeline design, implementation, and management."
+permalink: /06-resources/
+mermaid: true
+---
+
 # Resources, Tips & Quick Reference
 
-[← Back to Main](./README.md)
+> 📁 [← Back to Home](/az-400-study-notes/)
 
 ---
 
@@ -271,6 +280,5 @@ User-specific scripts       → Fine-grained PAT (with expiry)
 
 ---
 
-*Good luck on your AZ-400 exam! 🚀*
+[← 05 - Instrumentation Strategy](az-400-study-notes/05-instrumentation-strategy/) | [Back to Home →](/az-400-study-notes/)
 
-*Based on skills measured as of July 26, 2024 | [Official Study Guide](https://learn.microsoft.com/en-gb/credentials/certifications/resources/study-guides/az-400)*
