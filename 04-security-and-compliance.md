@@ -1,8 +1,16 @@
+---
+layout: default
+title: "04 — Security and Compliance"
+nav_order: 11
+description: "Design and Implement Security and Compliance — AZ-400 Exam Domain 4 (10–15% of exam) — security design, implementation, and management."
+permalink: /04-security-and-compliance/
+mermaid: true
+---
+
 # Domain 4: Develop a Security and Compliance Plan
 
-**Exam Weight: 10–15%**
-
-[← Back to Main](./README.md)
+> **Exam Weight: 10–15%**
+> 📁 [← Back to Home](/az-400-study-notes/)
 
 ---
 
@@ -584,4 +592,4 @@ updates:
 
 ---
 
-[← Build & Release Pipelines](./03-build-and-release-pipelines.md) | [Back to Main](./README.md) | [Next: Instrumentation →](./05-instrumentation-strategy.md)
+[← 03 - Build & Release Pipelines](/az-400-study-notes/03-build-and-release-pipelines/) | [05 - Instrumentation Strategy →](/az-400-study-notes/05-instrumentation-strategy/)

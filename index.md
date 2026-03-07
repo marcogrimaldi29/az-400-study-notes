@@ -28,12 +28,12 @@ mermaid: true
 
 | # | Domain | Weight |
 |---|--------|--------|
-| [01](./01-processes-and-communications.md) | Design and Implement Processes and Communications | 10–15% |
-| [02](./02-source-control-strategy.md) | Design and Implement a Source Control Strategy | 10–15% |
-| [03](./03-build-and-release-pipelines.md) | Design and Implement Build and Release Pipelines | **50–55%** |
-| [04](./04-security-and-compliance.md) | Develop a Security and Compliance Plan | 10–15% |
-| [05](./05-instrumentation-strategy.md) | Implement an Instrumentation Strategy | 5–10% |
-| [📚](./resources.md) | Resources, Tips & Quick Reference | — |
+| [01](/az-400-study-notes/01-processes-and-communications/) | Design and Implement Processes and Communications | 10–15% |
+| [02](/az-400-study-notes/02-source-control-strategy/) | Design and Implement a Source Control Strategy | 10–15% |
+| [03](/az-400-study-notes/03-build-and-release-pipelines/) | Design and Implement Build and Release Pipelines | **50–55%** |
+| [04](/az-400-study-notes/04-security-and-compliance/) | Develop a Security and Compliance Plan | 10–15% |
+| [05](/az-400-study-notes/05-instrumentation-strategy/) | Implement an Instrumentation Strategy | 5–10% |
+| [06](/az-400-study-notes/06-resources/) | Resources, Tips & Quick Reference | — |
 
 ---
 
@@ -108,7 +108,7 @@ az-400-study-notes/
 ├── 04-security-and-compliance.md          ← AuthN/Z, Key Vault, GHAS, scanning
 ├── 05-instrumentation-strategy.md         ← Azure Monitor, App Insights, KQL
 │
-└── resources.md                           ← Cheat sheet, study plan, exam tips
+└── 06-resources.md                        ← Cheat sheet, study plan, exam tips
 ```
 
 ---
@@ -125,16 +125,6 @@ az-400-study-notes/
 | Azure Documentation | [azure](https://learn.microsoft.com/en-us/azure/?product=popular) |
 | Exam Sandbox | [Try the exam UI](https://aka.ms/examdemo) |
 | Microsoft Q&A | [Ask questions](https://learn.microsoft.com/en-us/answers/products/) |
-
----
-
-## 📝 How to Use These Notes
-
-1. **Start with the [Resources](./resources.md)** section for exam tips and a quick-reference cheat sheet
-2. **Study domains in weight order** — pipelines first (50–55%), then everything else
-3. **Use the practice assessment** regularly to gauge your readiness
-4. **Each section** includes: key concepts, important distinctions, comparison tables, and gotchas
-5. Sections marked with ⭐ contain **commonly tested** topics
 
 ---
 

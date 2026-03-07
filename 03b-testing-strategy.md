@@ -1,6 +1,17 @@
+---
+layout: default
+title: "03b — Testing Strategy"
+nav_order: 6
+description: "Design and Implement Testing Strategy for Pipelines — AZ-400 Exam Domain 3 (50–55% of exam) — testing design, implementation, and management."
+permalink: /03b-testing-strategy/
+mermaid: true
+---
+
 # 3b: Design and Implement a Testing Strategy for Pipelines
 
-[← Back to Domain 3](./03-build-and-release-pipelines.md)
+> 📁 [← Back to Home](/az-400-study-notes/)
+
+[← Back to Domain 3](/az-400-study-notes/03-build-and-release-pipelines/)
 
 ---
 
@@ -350,4 +361,4 @@ dotnet test /p:CollectCoverage=true \
 
 ---
 
-[← Package Management](./03a-package-management.md) | [Next: Pipelines →](./03c-pipelines.md)
+[← 03a - Package Management](/az-400-study-notes/03a-package-management/) | [03c - Pipelines →](/az-400-study-notes/03c-pipelines/)

@@ -1,6 +1,17 @@
+---
+layout: default
+title: "03a — Package Management"
+nav_order: 5
+description: "Design and Implement Package Management Strategy — AZ-400 Exam Domain 3 (50–55% of exam) — package design, implementation, and management."
+permalink: /03a-package-management/
+mermaid: true
+---
+
 # 3a: Design and Implement a Package Management Strategy
 
-[← Back to Domain 3](./03-build-and-release-pipelines.md)
+> 📁 [← Back to Home](/az-400-study-notes/)
+
+[← Back to Domain 3](/az-400-study-notes/03-build-and-release-pipelines/)
 
 ---
 
@@ -296,4 +307,4 @@ name: $(Date:yyyyMMdd).$(Rev:r)  # e.g., 20240726.3
 
 ---
 
-[← Domain 3 Overview](./03-build-and-release-pipelines.md) | [Next: Testing Strategy →](./03b-testing-strategy.md)
+[← 03 - Build & Release Pipelines](/az-400-study-notes/03-build-release-pipelines/) | [03b - Testing Strategy →](/az-400-study-notes/03b-testing-strategy/)

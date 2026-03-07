@@ -1,8 +1,16 @@
+---
+layout: default
+title: "03 — Build and Release Pipelines"
+nav_order: 4
+description: "Design and Implement Build and Release Pipelines — AZ-400 Exam Domain 3 (50–55% of exam) — pipeline design, implementation, and management."
+permalink: /03-build-release-pipelines/
+mermaid: true
+---
+
 # Domain 3: Design and Implement Build and Release Pipelines
 
-**Exam Weight: 50–55% ⚠️ HIGHEST PRIORITY DOMAIN**
-
-[← Back to Main](./README.md)
+> **Exam Weight: 50–55% ⚠️ HIGHEST PRIORITY DOMAIN**
+> 📁 [← Back to Home](/az-400-study-notes/)
 
 ---
 
@@ -10,12 +18,12 @@
 
 | # | Topic | Key Technologies |
 |---|-------|-----------------|
-| [3a](./03a-package-management.md) | Package Management Strategy | Azure Artifacts, GitHub Packages, SemVer, CalVer |
-| [3b](./03b-testing-strategy.md) | Testing Strategy for Pipelines | Unit, Integration, Load tests, Code Coverage, Quality Gates |
-| [3c](./03c-pipelines.md) | Design and Implement Pipelines | YAML pipelines, GitHub Actions, Agents, Runners, Triggers |
-| [3d](./03d-deployments.md) | Design and Implement Deployments | Blue-green, Canary, Feature Flags, Database tasks |
-| [3e](./03e-infrastructure-as-code.md) | Infrastructure as Code (IaC) | Bicep, ARM, DSC, Terraform, Azure Deployment Environments |
-| [3f](./03f-maintain-pipelines.md) | Maintain Pipelines | Health, Optimization, Retention, Classic → YAML migration |
+| [3a](/az-400-study-notes/03a-package-management/) | Package Management Strategy | Azure Artifacts, GitHub Packages, SemVer, CalVer |
+| [3b](/az-400-study-notes/03b-testing-strategy/) | Testing Strategy for Pipelines | Unit, Integration, Load tests, Code Coverage, Quality Gates |
+| [3c](/az-400-study-notes/03c-pipelines/) | Design and Implement Pipelines | YAML pipelines, GitHub Actions, Agents, Runners, Triggers |
+| [3d](/az-400-study-notes/03d-deployments/) | Design and Implement Deployments | Blue-green, Canary, Feature Flags, Database tasks |
+| [3e](/az-400-study-notes/03e-infrastructure-as-code/) | Infrastructure as Code (IaC) | Bicep, ARM, DSC, Terraform, Azure Deployment Environments |
+| [3f](/az-400-study-notes/03f-maintain-pipelines/) | Maintain Pipelines | Health, Optimization, Retention, Classic → YAML migration |
 
 ---
 
@@ -122,4 +130,5 @@ stages:
 
 ---
 
-[← Back to Main](./README.md)
+[← 02 - Source Control Strategy](/az-400-study-notes/02-source-control-strategy/) | [03 - Build & Release Pipelines →](/az-400-study-notes/03-build-release-pipelines.md)
+

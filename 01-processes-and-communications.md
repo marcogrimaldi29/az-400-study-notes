@@ -1,8 +1,16 @@
+---
+layout: default
+title: "01 — Processes and Communications"
+nav_order: 2
+description: "Design and Implement Processes and Communications — AZ-400 Exam Domain 1 (10–15% of exam) — traceability, flow of work, metrics, collaboration tools, documentation, webhooks, and integrations."
+permalink: /01-processes-and-communications/
+mermaid: true
+---
+
 # Domain 1: Design and Implement Processes and Communications
 
-**Exam Weight: 10–15%**
-
-[← Back to Main](./README.md)
+> **Exam Weight: 10–15%**
+> 📁 [← Back to Home](/az-400-study-notes/)
 
 ---
 
@@ -388,4 +396,4 @@ git commit -m "Closes AB#199, implements AB#204"
 
 ---
 
-[← Back to Main](./README.md) | [Next: Source Control Strategy →](./02-source-control-strategy.md)
+[← Back to Home](/az-400-study-notes/) | [02 - Source Control Strategy →](/az-400-study-notes/02-source-control-strategy.md)

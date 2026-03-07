@@ -1,8 +1,16 @@
+---
+layout: default
+title: "02 — Source Control Strategy"
+nav_order: 3
+description: "Design and Implement Source Control Strategy — AZ-400 Exam Domain 2 (10–15% of exam) — branching strategies, repository management, and collaboration practices."
+permalink: /02-source-control-strategy/
+mermaid: true
+---
+
 # Domain 2: Design and Implement a Source Control Strategy
 
-**Exam Weight: 10–15%**
-
-[← Back to Main](./README.md)
+> **Exam Weight: 10–15%**
+> 📁 [← Back to Home](/az-400-study-notes/)
 
 ---
 
@@ -403,4 +411,4 @@ git filter-repo --path-glob "*.pem" --invert-paths
 
 ---
 
-[← Processes & Communications](./01-processes-and-communications.md) | [Back to Main](./README.md) | [Next: Build & Release Pipelines →](./03-build-and-release-pipelines.md)
+[← 01 - Processes & Communications](/az-400-study-notes/01-processes-and-communications.md) | [03 - Build & Release Pipelines →](/az-400-study-notes/03-build-release-pipelines.md)
