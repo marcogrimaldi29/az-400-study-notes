@@ -92,9 +92,10 @@ As a **DevOps Engineer**, you are a developer or infrastructure administrator wi
 ```
 az-400-study-notes/
 │
-├── README.md                              ← You are here
+├── README.md / index.md                   ← You are here
 │
 ├── 01-processes-and-communications.md     ← Flow of work, metrics, collaboration
+│
 ├── 02-source-control-strategy.md          ← Branching, repo management, Git
 │
 ├── 03-build-and-release-pipelines.md      ← Overview & index (50–55% of exam)
@@ -106,6 +107,7 @@ az-400-study-notes/
 ├── 03f-maintain-pipelines.md              ← Health, optimization, retention, migration
 │
 ├── 04-security-and-compliance.md          ← AuthN/Z, Key Vault, GHAS, scanning
+│
 ├── 05-instrumentation-strategy.md         ← Azure Monitor, App Insights, KQL
 │
 └── 06-resources.md                        ← Cheat sheet, study plan, exam tips
