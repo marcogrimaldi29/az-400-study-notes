@@ -148,9 +148,9 @@ This site uses [Umami](https://umami.is/) for privacy-friendly analytics.
 
 ## ⭐ Found These Notes Helpful?
 
-If these notes have helped you prepare for the AZ-305 exam, consider giving the repo a **star on GitHub** — it helps others find these resources and makes the effort of keeping them up-to-date worthwhile. Thank you! 🙌
+If these notes have helped you prepare for the AZ-400 exam, consider giving the repo a **star on GitHub** — it helps others find these resources and makes the effort of keeping them up-to-date worthwhile. Thank you! 🙌
 
-[⭐ Star this repo](https://github.com/marcogrimaldi29/az-305-study-notes){: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 }
+[⭐ Star this repo](https://github.com/marcogrimaldi29/az-400-study-notes){: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
