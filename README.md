@@ -124,9 +124,9 @@ The site includes full-text search, Mermaid diagram rendering, and mobile-friend
 
 These notes are designed to be a structured, exam-focused summary of the most important concepts and services baseds on the official [Microsoft AZ-400 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-400) and its criteria.
 
-Additional resources and study notes maintained by me, such as the **[📘 AZ-305 Study Notes](https://marcogrimaldi29.com/az-305-study-notes/)** and more, are also available for those pursuing the Microsoft and Azure certifications at the following Landing Page:
+Additional study notes maintained by me are also available for those pursuing Microsoft and Azure certifications at the following Landing Page:
 
-👉 **[🧑‍🏫 Microsoft Study Notes: Central Hub](https://marcogrimaldi29.com/microsoft-study-notes/)**
+👉 **[🛬 Landing Page: Study Notes](https://marcogrimaldi29.com/study-notes/)**
 
 ---
 
@@ -146,11 +146,19 @@ This site uses [Umami](https://umami.is/) for privacy-friendly analytics.
 
 ---
 
+## ⭐ Found These Notes Helpful?
+
+If these notes have helped you prepare for the AZ-305 exam, consider giving the repo a **star on GitHub** — it helps others find these resources and makes the effort of keeping them up-to-date worthwhile. Thank you! 🙌
+
+[⭐ Star this repo](https://github.com/marcogrimaldi29/az-305-study-notes){: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 }
+
+---
+
 ## ©️ Credits & Acknowledgements
 
-The [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme is used for a clean, documentation-style layout. Licensed under [MIT](https://opensource.org/license/MIT).
+The **[Just the Docs](https://github.com/just-the-docs/just-the-docs)** theme is used for a clean, documentation-style layout. Licensed under [MIT](https://opensource.org/license/MIT).
 
-Created with the help of AI. Model used: [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6). The content has been reviewed and edited by the author for accuracy and clarity, but may contain errors. Always verify against the latest [Microsoft documentation](https://learn.microsoft.com/en-us/azure/).
+Created with the help of AI. Model used: **[Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)**. The content has been reviewed and edited by the author for accuracy and clarity, but may contain errors. Always verify against the latest [Microsoft documentation](https://learn.microsoft.com/en-us/azure/).
 
 ---
 

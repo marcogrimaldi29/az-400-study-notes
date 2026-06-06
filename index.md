@@ -132,17 +132,13 @@ az-400-study-notes/
 
 ## 📚 About the Study Notes
 
-These notes are hosted on **GitHub Pages** and published as a searchable website on this URL:
-
-👉 **[📘 AZ-400 Study Notes](https://marcogrimaldi29.com/az-400-study-notes/)**
-
 The site includes full-text search, Mermaid diagram rendering, and mobile-friendly navigation for on-the-go review. 
 
-These notes are designed to be a structured, exam-focused summary of the most important concepts and services baseds on the official [Microsoft AZ-400 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-400) and its criteria.
+These notes are designed to be a structured, exam-focused summary of the most important concepts and services baseds on the official **[Microsoft AZ-400 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-400)** and its criteria.
 
-Additional resources and study notes maintained by me, such as the **[📘 AZ-305 Study Notes](https://marcogrimaldi29.com/az-305-study-notes/)** and more, are also available for those pursuing the Microsoft and Azure certifications at the following Landing Page:
+Additional study notes maintained by me are also available for those pursuing Microsoft and Azure certifications at the following Landing Page:
 
-👉 **[🧑‍🏫 Microsoft Study Notes: Central Hub](https://marcogrimaldi29.com/microsoft-study-notes/)**
+👉 **[🛬 Landing Page: Study Notes](https://marcogrimaldi29.com/study-notes/)**
 
 ---
 
@@ -159,6 +155,14 @@ The site is continuously updated and based on my personal study notes and experi
 ## 📈 Analytics
 
 This site uses [Umami](https://umami.is/) for privacy-friendly analytics.
+
+---
+
+## ⭐ Found These Notes Helpful?
+
+If these notes have helped you prepare for the AZ-400 exam, consider giving the repo a **star on GitHub** — it helps others find these resources and makes the effort of keeping them up-to-date worthwhile. Thank you! 🙌
+
+[⭐ Star this repo](https://github.com/marcogrimaldi29/az-400-study-notes){: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
