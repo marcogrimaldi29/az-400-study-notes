@@ -50,12 +50,8 @@ search:
 # Navigation
 nav_sort: order
 nav_external_links:
-  - title: "📘 AZ-305 Study Notes"
-    url: https://marcogrimaldi29.com/az-305-study-notes/
-  - title: "📘 AZ-104 Study Notes"
-    url: https://marcogrimaldi29.com/az-104-study-notes/
-#  - title: "🏠 marcogrimaldi29.com"
-#    url:   "https://marcogrimaldi29.com"
+  - title: "🏠 marcogrimaldi29.com"
+    url:   "https://marcogrimaldi29.com"
 
 # ── Back to top button ───────────────────────────────────────────────
 back_to_top:      true
@@ -63,7 +59,7 @@ back_to_top_text: "Back to top ↑"
 
 # Aux links (top-right corner)
 aux_links:
-  "🏠 Personal Hub of Marco Grimaldi":
+  "🏠 marcogrimaldi29.com":
     - "https://marcogrimaldi29.com"
 
 aux_links_new_tab: true
