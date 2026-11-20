@@ -2,7 +2,7 @@
 layout: default
 title: "06 — Resources, Tips & Quick Reference"
 nav_order: 13
-description: "Design and Implement Build and Release Pipelines — AZ-400 Exam Domain 3 (50–55% of exam) — pipeline design, implementation, and management."
+description: "Resources, Tips & Quick Reference for AZ-400 — exam strategy, master cheat sheet, official documentation links, a 4-week study plan, and a pre-exam checklist."
 permalink: /06-resources/
 mermaid: true
 ---
@@ -10,6 +10,9 @@ mermaid: true
 # Resources, Tips & Quick Reference
 
 > 📁 [← Back to Home](/az-400-study-notes/)
+
+{: .retirement }
+AZ-400 and the DevOps Engineer Expert certification retire on **February 1, 2027**. Microsoft's new expert exam is **AZ-401** (Agentic DevOps Engineer Expert, beta). [What this means for you →](/az-400-study-notes/#retirement-notice)
 
 ---
 
@@ -27,7 +30,7 @@ mermaid: true
 
 ### Exam Tips
 
-- ⏱️ **Time management**: ~180 minutes for ~50–60 questions → ~3 min/question
+- ⏱️ **Time management**: 100 minutes for ~40–60 questions → ~2 min/question (Microsoft's exam time for role-based exams without labs)
 - 📋 **Read the question twice**: Many answers hinge on a single word (e.g., "cheapest", "fastest rollback", "without code changes")
 - 🎯 **"Most appropriate"**: When multiple answers seem correct, pick the Azure-native solution
 - 🔄 **Case studies**: Read the requirements section first, then answer questions
@@ -179,7 +182,7 @@ User-specific scripts       → Fine-grained PAT (with expiry)
 | GitHub Secret Scanning | Secrets in code | On push (blocks push) |
 | Trivy | Container image CVEs | Build / deploy |
 | Checkov | IaC misconfigurations | Build / PR |
-| Microsoft Defender for DevOps | Multi-platform unified view | Continuous |
+| Microsoft Defender for Cloud DevOps security | Multi-platform unified view | Continuous |
 
 ---
 
@@ -217,8 +220,10 @@ User-specific scripts       → Fine-grained PAT (with expiry)
 |----------|------|
 | Official Exam Page | [AZ-400 Exam](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/) |
 | Official Study Guide | [AZ-400 Study Guide](https://learn.microsoft.com/en-gb/credentials/certifications/resources/study-guides/az-400) |
-| Free Practice Assessment | [Practice Questions](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/practice/assessment?assessment-type=practice&assessmentId=56) |
+| Free Practice Assessment | [New practice assessment on AI Skills Navigator](https://aka.ms/AZ400-PA) (sign-in required) · [Legacy practice assessment on Learn](https://aka.ms/AZ400-LearnPA) (no longer updated) |
 | Exam Sandbox | [Try the exam UI](https://aka.ms/examdemo) |
+| Retirement Announcement | [AZ-400 retires February 1, 2027](https://techcommunity.microsoft.com/blog/skills-hub-blog/new-microsoft-certified-agentic-devops-engineer-expert/4528356) — see the [retirement notice](/az-400-study-notes/#retirement-notice) |
+| Successor Exam (AZ-401) | [AZ-401 Exam](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-401/) · [AZ-401 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-401) |
 | Learning Paths | [Microsoft Learn AZ-400](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400#two-ways-to-prepare) |
 | Tech Community | [Azure DevOps Forum](https://techcommunity.microsoft.com/t5/azure-devops/bd-p/AzureDevOpsForum) |
 
@@ -227,34 +232,34 @@ User-specific scripts       → Fine-grained PAT (with expiry)
 ## 📅 Suggested Study Plan (4 Weeks)
 
 ### Week 1 — Pipelines Foundations (50% of exam)
-- [ ] Read [Domain 3 Overview](./03-build-and-release-pipelines.md)
-- [ ] Study [3c: Pipelines (YAML)](./03c-pipelines.md)
-- [ ] Study [3d: Deployments](./03d-deployments.md)
+- [ ] Read [Domain 3 Overview](/az-400-study-notes/03-build-release-pipelines/)
+- [ ] Study [3c: Pipelines (YAML)](/az-400-study-notes/03c-pipelines/)
+- [ ] Study [3d: Deployments](/az-400-study-notes/03d-deployments/)
 - [ ] Hands-on: Create a multi-stage YAML pipeline in Azure DevOps
 - [ ] Hands-on: Set up a GitHub Actions workflow with environments and approvals
 
 ### Week 2 — Pipelines Advanced + Security
-- [ ] Study [3a: Package Management](./03a-package-management.md)
-- [ ] Study [3b: Testing Strategy](./03b-testing-strategy.md)
-- [ ] Study [3e: Infrastructure as Code](./03e-infrastructure-as-code.md)
-- [ ] Study [3f: Maintain Pipelines](./03f-maintain-pipelines.md)
-- [ ] Study [Domain 4: Security & Compliance](./04-security-and-compliance.md)
+- [ ] Study [3a: Package Management](/az-400-study-notes/03a-package-management/)
+- [ ] Study [3b: Testing Strategy](/az-400-study-notes/03b-testing-strategy/)
+- [ ] Study [3e: Infrastructure as Code](/az-400-study-notes/03e-infrastructure-as-code/)
+- [ ] Study [3f: Maintain Pipelines](/az-400-study-notes/03f-maintain-pipelines/)
+- [ ] Study [Domain 4: Security & Compliance](/az-400-study-notes/04-security-and-compliance/)
 - [ ] Hands-on: Create a Bicep template and deploy via pipeline
 - [ ] Hands-on: Enable GHAS and run CodeQL on a repo
 
 ### Week 3 — Processes, Source Control, Instrumentation
-- [ ] Study [Domain 1: Processes & Communications](./01-processes-and-communications.md)
-- [ ] Study [Domain 2: Source Control Strategy](./02-source-control-strategy.md)
-- [ ] Study [Domain 5: Instrumentation](./05-instrumentation-strategy.md)
+- [ ] Study [Domain 1: Processes & Communications](/az-400-study-notes/01-processes-and-communications/)
+- [ ] Study [Domain 2: Source Control Strategy](/az-400-study-notes/02-source-control-strategy/)
+- [ ] Study [Domain 5: Instrumentation](/az-400-study-notes/05-instrumentation-strategy/)
 - [ ] Hands-on: Set up Azure Boards with GitHub integration
 - [ ] Hands-on: Write KQL queries in Log Analytics
 
 ### Week 4 — Review and Practice
-- [ ] Take [free practice assessment](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/practice/assessment?assessment-type=practice&assessmentId=56) (aim for 75%+)
+- [ ] Take the [free practice assessment](https://aka.ms/AZ400-PA) on AI Skills Navigator (aim for 75%+)
 - [ ] Review weak areas using these notes
 - [ ] Review [Cheat Sheet](#master-cheat-sheet) above
 - [ ] Take practice assessment again (aim for 85%+)
-- [ ] **Book and take the exam!** 🎓
+- [ ] **Book and take the exam before February 1, 2027**, when AZ-400 retires! 🎓
 
 ---
 
@@ -280,5 +285,5 @@ User-specific scripts       → Fine-grained PAT (with expiry)
 
 ---
 
-[← 05 - Instrumentation Strategy](az-400-study-notes/05-instrumentation-strategy/) | [Back to Home →](/az-400-study-notes/)
+[← 05 - Instrumentation Strategy](/az-400-study-notes/05-instrumentation-strategy/) | [Back to Home →](/az-400-study-notes/)
 

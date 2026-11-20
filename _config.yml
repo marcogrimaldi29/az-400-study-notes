@@ -13,9 +13,10 @@ title: "AZ-400 Study Notes"
 description: >
   Comprehensive study notes for the Microsoft AZ-400: Designing and Implementing Microsoft DevOps Solutions certification exam. 
   Covers all exam domains with key concepts, services, and exam tips to help you prepare effectively.
+  Note: Microsoft retires exam AZ-400 and the DevOps Engineer Expert certification on February 1, 2027.
 
 author: "Marco Grimaldi"
-tagline: "Azure Solutions Architect Expert — Exam Prep"
+tagline: "DevOps Engineer Expert — Exam Prep"
 
 # ── URLs ──────────────────────────────────────────────────
 url:     "https://marcogrimaldi29.com"
@@ -97,6 +98,9 @@ callouts:
   important:
     title: "🔑 Key Point"
     color: purple
+  retirement:
+    title: "🗓️ Retirement Notice"
+    color: yellow
 
 # ── Timestamps ────────────────────────────────────────────
 last_edit_timestamp:  true
