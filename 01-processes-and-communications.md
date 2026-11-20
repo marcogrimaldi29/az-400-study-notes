@@ -399,4 +399,4 @@ git commit -m "Closes AB#199, implements AB#204"
 
 ---
 
-[← Back to Home](/az-400-study-notes/) | [02 - Source Control Strategy →](/az-400-study-notes/02-source-control-strategy.md)
+[← Back to Home](/az-400-study-notes/) | [02 - Source Control Strategy →](/az-400-study-notes/02-source-control-strategy/)

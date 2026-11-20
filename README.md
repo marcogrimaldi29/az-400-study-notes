@@ -82,7 +82,7 @@ In the [same announcement](https://techcommunity.microsoft.com/blog/skills-hub-b
 |---|--------|--------|
 | [01](/az-400-study-notes/01-processes-and-communications/) | Design and Implement Processes and Communications | 10–15% |
 | [02](/az-400-study-notes/02-source-control-strategy/) | Design and Implement a Source Control Strategy | 10–15% |
-| [03](/az-400-study-notes/03-build-and-release-pipelines/) | Design and Implement Build and Release Pipelines | **50–55%** |
+| [03](/az-400-study-notes/03-build-release-pipelines/) | Design and Implement Build and Release Pipelines | **50–55%** |
 | [04](/az-400-study-notes/04-security-and-compliance/) | Develop a Security and Compliance Plan | 10–15% |
 | [05](/az-400-study-notes/05-instrumentation-strategy/) | Implement an Instrumentation Strategy | 5–10% |
 | [06](/az-400-study-notes/06-resources/) | Resources, Tips & Quick Reference | — |

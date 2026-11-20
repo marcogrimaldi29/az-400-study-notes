@@ -595,4 +595,4 @@ updates:
 
 ---
 
-[← 03 - Build & Release Pipelines](/az-400-study-notes/03-build-and-release-pipelines/) | [05 - Instrumentation Strategy →](/az-400-study-notes/05-instrumentation-strategy/)
+[← 03 - Build & Release Pipelines](/az-400-study-notes/03-build-release-pipelines/) | [05 - Instrumentation Strategy →](/az-400-study-notes/05-instrumentation-strategy/)

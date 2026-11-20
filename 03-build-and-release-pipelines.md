@@ -133,5 +133,5 @@ stages:
 
 ---
 
-[← 02 - Source Control Strategy](/az-400-study-notes/02-source-control-strategy/) | [03 - Build & Release Pipelines →](/az-400-study-notes/03-build-release-pipelines.md)
+[← 02 - Source Control Strategy](/az-400-study-notes/02-source-control-strategy/) | [03a - Package Management →](/az-400-study-notes/03a-package-management/)
 
