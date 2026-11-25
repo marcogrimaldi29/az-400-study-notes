@@ -14,13 +14,17 @@ mermaid: true
 {: .fs-5 .fw-300 }
 
 [Start Studying →](/az-400-study-notes/01-processes-and-communications/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View on GitHub](https://github.com/marcogrimaldi29/az-400-study-notes){: .btn .fs-5 .mb-4 .mb-md-0 target="_blank" }
+[View on GitHub](https://github.com/marcogrimaldi29/az-400-study-notes){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" }
+[Try v2 →](https://marcogrimaldi29.com/az-400-study-notes-v2/){: .btn .btn-green .fs-5 .mb-4 .mb-md-0 target="_blank" }
 
 ---
 
 > These notes are maintained by **[Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/)** and based on the **[official Microsoft documentation](https://learn.microsoft.com/en-us/credentials/certifications/azure-devops-engineer-expert/)**.
 > Find more certification guides, study tips, and tech content at **[🏠 marcogrimaldi29.com](https://marcogrimaldi29.com)**.
 > *Not affiliated with or endorsed by Microsoft. Always verify against the latest Microsoft documentation.*
+
+{: .newversion }
+A new, rebuilt version of these notes is available: **[AZ-400 Study Notes v2](https://marcogrimaldi29.com/az-400-study-notes-v2/)**. It covers the same AZ-400 exam, refreshed against the July 27, 2026 skills outline, with more emphasis on GitHub-native tooling, progress tracking, and side-by-side Azure Pipelines vs. GitHub Actions YAML. Source on GitHub: [marcogrimaldi29/az-400-study-notes-v2](https://github.com/marcogrimaldi29/az-400-study-notes-v2).
 
 ---
 
@@ -203,6 +207,10 @@ az-400-study-notes/
 The site includes full-text search, Mermaid diagram rendering, and mobile-friendly navigation for on-the-go review. 
 
 These notes are designed to be a structured, exam-focused summary of the most important concepts and services based on the official **[Microsoft AZ-400 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-400)** and its criteria.
+
+A new, rebuilt version of these notes is also available:
+
+👉 **[🆕 AZ-400 Study Notes v2](https://marcogrimaldi29.com/az-400-study-notes-v2/)** · [GitHub repo](https://github.com/marcogrimaldi29/az-400-study-notes-v2)
 
 Additional study notes maintained by me are also available for those pursuing Microsoft and Azure certifications at the following Landing Page:
 

@@ -5,9 +5,14 @@
 ![Certification](https://img.shields.io/badge/Exam-AZ--400-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
 ![Retires](https://img.shields.io/badge/Retires-Feb%201%2C%202027-red?style=for-the-badge)
+[![v2 available](https://img.shields.io/badge/New-v2%20available-brightgreen?style=for-the-badge)](https://marcogrimaldi29.com/az-400-study-notes-v2/)
 
 > Personal study notes for the **Microsoft AZ-400** certification exam.  
 > Based on the [official Microsoft study guide](https://learn.microsoft.com/en-gb/credentials/certifications/resources/study-guides/az-400). Microsoft last updated the skills measured on July 27, 2026 (minor changes).
+
+> [!TIP]
+> **🆕 A new version of these notes is available: [AZ-400 Study Notes v2](https://marcogrimaldi29.com/az-400-study-notes-v2/).**  
+> It's a full rebuild for the same AZ-400 exam, refreshed against the July 27, 2026 skills outline, with more emphasis on GitHub-native tooling, progress tracking, and side-by-side Azure Pipelines vs. GitHub Actions YAML. Source: [marcogrimaldi29/az-400-study-notes-v2](https://github.com/marcogrimaldi29/az-400-study-notes-v2).
 
 ---
 
@@ -192,6 +197,10 @@ These notes are hosted on **GitHub Pages** and published as a searchable website
 The site includes full-text search, Mermaid diagram rendering, and mobile-friendly navigation for on-the-go review. 
 
 These notes are designed to be a structured, exam-focused summary of the most important concepts and services based on the official [Microsoft AZ-400 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-400) and its criteria.
+
+A new, rebuilt version of these notes is also available, with its source in a separate repository:
+
+👉 **[🆕 AZ-400 Study Notes v2](https://marcogrimaldi29.com/az-400-study-notes-v2/)** · [GitHub repo](https://github.com/marcogrimaldi29/az-400-study-notes-v2)
 
 Additional study notes maintained by me are also available for those pursuing Microsoft and Azure certifications at the following Landing Page:
 
