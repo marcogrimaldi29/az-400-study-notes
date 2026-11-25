@@ -52,6 +52,8 @@ search:
 # Navigation
 nav_sort: order
 nav_external_links:
+  - title: "🆕 Study Notes v2"
+    url:   "https://marcogrimaldi29.com/az-400-study-notes-v2/"
   - title: "🏠 marcogrimaldi29.com"
     url:   "https://marcogrimaldi29.com"
 
@@ -61,6 +63,8 @@ back_to_top_text: "Back to top ↑"
 
 # Aux links (top-right corner)
 aux_links:
+  "🆕 Study Notes v2":
+    - "https://marcogrimaldi29.com/az-400-study-notes-v2/"
   "🏠 marcogrimaldi29.com":
     - "https://marcogrimaldi29.com"
 
@@ -101,6 +105,9 @@ callouts:
   retirement:
     title: "🗓️ Retirement Notice"
     color: yellow
+  newversion:
+    title: "🆕 New Version Available"
+    color: green
 
 # ── Timestamps ────────────────────────────────────────────
 last_edit_timestamp:  true

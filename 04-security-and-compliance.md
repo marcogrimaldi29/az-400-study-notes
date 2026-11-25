@@ -15,6 +15,9 @@ mermaid: true
 {: .retirement }
 AZ-400 and the DevOps Engineer Expert certification retire on **February 1, 2027**. Microsoft's new expert exam is **AZ-401** (Agentic DevOps Engineer Expert, beta). [What this means for you →](/az-400-study-notes/#retirement-notice)
 
+{: .newversion }
+A new, rebuilt version of these notes is available: **AZ-400 Study Notes v2**, refreshed against the July 27, 2026 skills outline. [Open v2 →](https://marcogrimaldi29.com/az-400-study-notes-v2/) · [GitHub repo](https://github.com/marcogrimaldi29/az-400-study-notes-v2)
+
 ---
 
 ## 📑 Table of Contents

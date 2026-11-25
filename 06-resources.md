@@ -14,6 +14,9 @@ mermaid: true
 {: .retirement }
 AZ-400 and the DevOps Engineer Expert certification retire on **February 1, 2027**. Microsoft's new expert exam is **AZ-401** (Agentic DevOps Engineer Expert, beta). [What this means for you →](/az-400-study-notes/#retirement-notice)
 
+{: .newversion }
+A new, rebuilt version of these notes is available: **AZ-400 Study Notes v2**, refreshed against the July 27, 2026 skills outline. [Open v2 →](https://marcogrimaldi29.com/az-400-study-notes-v2/) · [GitHub repo](https://github.com/marcogrimaldi29/az-400-study-notes-v2)
+
 ---
 
 ## 🎯 Exam Strategy
@@ -223,6 +226,7 @@ User-specific scripts       → Fine-grained PAT (with expiry)
 | Free Practice Assessment | [New practice assessment on AI Skills Navigator](https://aka.ms/AZ400-PA) (sign-in required) · [Legacy practice assessment on Learn](https://aka.ms/AZ400-LearnPA) (no longer updated) |
 | Exam Sandbox | [Try the exam UI](https://aka.ms/examdemo) |
 | Retirement Announcement | [AZ-400 retires February 1, 2027](https://techcommunity.microsoft.com/blog/skills-hub-blog/new-microsoft-certified-agentic-devops-engineer-expert/4528356) — see the [retirement notice](/az-400-study-notes/#retirement-notice) |
+| Study Notes v2 | [AZ-400 Study Notes v2](https://marcogrimaldi29.com/az-400-study-notes-v2/) — a rebuilt version of these notes · [GitHub repo](https://github.com/marcogrimaldi29/az-400-study-notes-v2) |
 | Successor Exam (AZ-401) | [AZ-401 Exam](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-401/) · [AZ-401 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-401) |
 | Learning Paths | [Microsoft Learn AZ-400](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400#two-ways-to-prepare) |
 | Tech Community | [Azure DevOps Forum](https://techcommunity.microsoft.com/t5/azure-devops/bd-p/AzureDevOpsForum) |
